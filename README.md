@@ -16,7 +16,7 @@
  
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://31.media.tumblr.com/ed3b62b9cc73c85251ba0636d8d5cb49/tumblr_mthky8hc481qzbzwzo1_1280.gif">
+<img align="right" alt="Coding" width="350" src="https://31.media.tumblr.com/ed3b62b9cc73c85251ba0636d8d5cb49/tumblr_mthky8hc481qzbzwzo1_1280.gif">
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusledis&show_icons=true&theme=tokyonight)
