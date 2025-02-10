@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=200&color=70A5FD&center=true&random=false&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Vinicius" /> </h1> <h3 align="center">👨‍💻 Passionate Full-Stack Developer Student 🇧🇷</h3> <div align="center">
+<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=200&color=70A5FD&center=true&random=false&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Vinicius" /> </h1> <h3 align="center">👨‍💻 Passionate Full-Stack Developer 🇧🇷</h3> <div align="center">
 👀 I’m currently open to work!
 
 🌱 I’m currently learning: React.js, Node.js, Express, SQL (MySQL & PostgreSQL)
